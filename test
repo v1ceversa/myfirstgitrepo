@@ -1,4 +1,5 @@
 import os
+import pickle
 
-if _name_ == 'main'
-  pass
+if __name__ == '__main__'
+
